@@ -18,6 +18,7 @@ public class ProyectoSolo {
         
         
        System.out.println("Creo el proyecto"); 
+       System.out.println("The binding of Isaac mola!");
     }
     
 }
